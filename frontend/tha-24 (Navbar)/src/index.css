@@ -1,0 +1,17 @@
+.container{
+  background-color: aqua;
+  padding:10px;
+
+}
+a.active{
+  padding:10px 100px;
+}
+a.act{
+  padding:10px 100px;
+}
+.home_page{
+  text-align: center;
+}
+.about_page{
+  text-align:center;
+}
